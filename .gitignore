@@ -1,0 +1,4 @@
+# Project exclude paths
+build/
+out/
+out/production/classes/
