@@ -1,6 +1,8 @@
 ####
-**This is the project I made on Hyperskill by Jetbrains platform. Hyperskill provides extensive theory on Java programming followed by exercises.\
-A completion of exercises let us begin next theory topic. At the end of learning section there is a stage of project implementing gained knowledge.\
+**This is the project I made on Hyperskill by Jetbrains platform.\
+Hyperskill provides extensive theory on Java programming followed by exercises.\
+A completion of set exercises on particular topic let us begin next theory topic.\
+At the end of learning section there is a stage of project implementing gained knowledge.\
 Finalizing the project means the author created an application step by step by him/herself using his/her knowledge and skills.\
  A breve description:\
 -A registered-only user (providing validated email and password) can create, read, update and delete recipes.\
